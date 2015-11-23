@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"archive-nov-2015.html":"Archives for Nov 2015","45ef4a5ece68bde0448daad53f0b9f39-0.html":"This is the first article\n\n"};
+	var websiteMeta = {"archive-nov-2015.html":"Archives for Nov 2015","tensorflowGettingStarted.html":"This is a summary of getting started in Tensor flow"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;

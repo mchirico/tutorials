@@ -11,5 +11,5 @@
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
-<lastBuildDate>Mon, 23 Nov 2015 09:39:58 -0500</lastBuildDate><item><title>First Article</title><dc:subject>Article</dc:subject><dc:date>2015-11-23T09:37:44-05:00</dc:date><link>http://mchirico.com/tutorials/files/45ef4a5ece68bde0448daad53f0b9f39-0.html#unique-entry-id-0</link><guid isPermaLink="true">http://mchirico.com/tutorials/files/45ef4a5ece68bde0448daad53f0b9f39-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[This is the first article<br /><br />]]></content:encoded></item></channel>
+<lastBuildDate>Mon, 23 Nov 2015 09:59:37 -0500</lastBuildDate><item><title>Tensorflow Getting Started</title><dc:subject>Article</dc:subject><dc:date>2015-11-23T09:37:44-05:00</dc:date><link>http://mchirico.com/tutorials/files/tensorflowGettingStarted.html#unique-entry-id-0</link><guid isPermaLink="true">http://mchirico.com/tutorials/files/tensorflowGettingStarted.html#unique-entry-id-0</guid><content:encoded><![CDATA[This is a summary of getting started in Tensor flow]]></content:encoded></item></channel>
 </rss>
